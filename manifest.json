@@ -1,13 +1,18 @@
 {
   "manifest_version": 2,
 
-  "name": "Edit and Download page",
+  "name": "Cedric",
   "description": "This extension will make the current page editable and add a button so you can download it",
-  "version": "1.0",
+  "version": "0.1",
 
   "browser_action": {
-	 "default_icon": "icon.png",
+	 "default_icon": "icon16.png",
 	 "default_title": "Make this page editable"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   },
   "permissions": [
 		"activeTab"
