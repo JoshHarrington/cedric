@@ -2,6 +2,7 @@
   "manifest_version": 2,
 
   "name": "Cedric",
+  "short_name": "CED",
   "description": "This extension will make the current page editable and add a button so you can download it",
   "version": "0.1",
 
